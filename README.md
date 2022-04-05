@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oii, Eu sou a Bianca Alves!
 
-<!--
-**BiahAraujo/BiahAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho como Aprendiz no setor financeiro do Hospital Santa Casa
+- 🌱 Estudando Sistema de informação
+- 🤔 Procuro por estágios em TI
+- 😄 Pronomes: Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/BiahAraujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiahAraujo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiahAraujo&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+<div style="display: inline_block"><br>
+  
+  ##
+  
+ <div>
+  <a href = "mailto:biah.alves02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bianca-alves-araujo-5bb71a201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
