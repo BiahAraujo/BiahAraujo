@@ -1,9 +1,8 @@
 ### Oii, Eu sou a Bianca Alves!
 
 
-- 🔭 Hoje trabalho como Auxiliar Administrativo no setor financeiro do Hospital Santa Casa
-- 🌱 Graduanda em Sistema de informação - 4° período
-- 🤔 Procuro por estágios em TI
+- 🌱 Graduanda em Sistema de informação - 5° período
+- 🤔 Procuro por estágios em Análises de Sistemas
 - 😄 Pronomes: Ela/Dela
 
 <div>
