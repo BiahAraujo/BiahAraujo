@@ -1,9 +1,9 @@
 ### Oii, Eu sou a Bianca Alves!
 
 
-- 🌱 Graduanda em Sistema de informação - 5° período
-- 🤔 Procuro por estágios em Análises de Sistemas
-- 😄 Pronomes: Ela/Dela
+- 🌱 Graduanda em Sistema de informação - 6° período
+- 🤓 Procuro por estágios em Análises de Sistemas
+- 😁 Pronomes: Ela/Dela
 
 <div>
   <a href="https://github.com/BiahAraujo">
