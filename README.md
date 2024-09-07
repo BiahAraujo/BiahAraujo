@@ -2,7 +2,6 @@
 
 
 - 🌱 Graduanda em Sistema de informação - 6° período
-- 🤓 Procuro por estágios em Análises de Sistemas
 - 😁 Pronomes: Ela/Dela
 
 <div>
