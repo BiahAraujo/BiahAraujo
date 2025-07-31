@@ -1,7 +1,7 @@
 ### Oii, Eu sou a Bianca Alves!
 
 
-- 🌱 Graduanda em Sistema de informação - 6° período
+- 🌱 Graduada em Sistema de informação pela UNICSUL
 - 😁 Pronomes: Ela/Dela
 
 <div>
